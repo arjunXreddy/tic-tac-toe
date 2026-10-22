@@ -1,0 +1,13 @@
+node_modules/
+dist/
+out/
+*.tgz
+.env
+.env.*
+!.env.example
+*.log
+.cache/
+*.tsbuildinfo
+.eslintcache
+.idea/
+.DS_Store
